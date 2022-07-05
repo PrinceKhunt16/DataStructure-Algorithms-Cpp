@@ -38,8 +38,8 @@ int main()
 // INPUT :  arr[] = {4, 5, 1, 2}
 // OUTPUT : arr[] = {2, 1, 5, 4}
 
-// TIME COMPLEXITY : O(n)
-// SPACE COMPLEXITY : O(n)
+// TIME COMPLEXITY : O(N)
+// SPACE COMPLEXITY : O(N)
 
 // GFG : https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
 // LEETCODE : https://leetcode.com/problems/reverse-string/
