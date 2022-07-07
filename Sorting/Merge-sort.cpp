@@ -17,7 +17,7 @@ void merge(int *arr, int s, int e) {
         first[i] = arr[mainArrayIndex++];
     }
 
-    mainArrayIndex = mid+1;
+    mainArrayIndex = mid + 1;
     for(int i = 0; i < len2; i++) {
         second[i] = arr[mainArrayIndex++];
     }
