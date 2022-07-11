@@ -58,9 +58,8 @@ int main() {
     return 0;  
 }  
 
-
 // USECASE : Counting sort works by determining the positions of each key value in the output sequence by counting the number of objects with distinct key values and applying prefix sum to those counts.
 // TIME COMPLEXITY : O(n + k)
 // SPACE COMPLEXITY : O(n + k)
 
-// GFG : https://practice.geeksforgeeks.org/problems/heap-sort/0/?category[]=Sorting&category[]=Sorting&page=1&query=category[]Sortingpage1category[]Sorting#
+// GFG : https://practice.geeksforgeeks.org/problems/counting-sort/1
