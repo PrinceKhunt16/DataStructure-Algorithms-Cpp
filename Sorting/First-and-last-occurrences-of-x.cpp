@@ -50,3 +50,11 @@ int main(){
    
     return 0;
 }
+
+// Input  : arr[] = { 1, 3, 5, 5, 5, 5, 67, 123, 125 }, n = 9, x = 5
+// Output : 2 5
+
+// Time Complexity : O(n)
+// Space Complexity : O(1)
+
+// GFG : https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1#
