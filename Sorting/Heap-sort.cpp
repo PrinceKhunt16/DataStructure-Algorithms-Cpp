@@ -59,8 +59,8 @@ int main(){
         cout << arr[i] << " ";
 }
 
-// USECASE : Heap Sort in Data Structure is used when the smallest (shortest) or highest (longest) value is needed instantly. Other usages include finding the order in statistics, dealing with priority queues in Prim's algorithm (also called the minimum spanning tree) and Huffman encoding or data compression.
-// TIME COMPLEXITY : O(N log(n))
-// SPACE COMPLEXITY : O(1)
+// When use : Heap Sort in Data Structure is used when the smallest (shortest) or highest (longest) value is needed instantly. Other usages include finding the order in statistics, dealing with priority queues in Prim's algorithm (also called the minimum spanning tree) and Huffman encoding or data compression.
+// Time Complexity : O(N log(n))
+// Space Complexity : O(1)
 
 // GFG : https://practice.geeksforgeeks.org/problems/heap-sort/0/?category[]=Sorting&category[]=Sorting&page=1&query=category[]Sortingpage1category[]Sorting#

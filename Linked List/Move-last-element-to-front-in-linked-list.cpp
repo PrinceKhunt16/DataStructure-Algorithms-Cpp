@@ -59,10 +59,10 @@ int main(){
     return 0;
 }
 
-// INPUT  : arr[] = { 1, 2, 3, 4, 5 }
-// OUTPUT : arr[] = { 5, 1, 2, 3, 4 }
+// Input  : arr[] = { 1, 2, 3, 4, 5 }
+// Output : arr[] = { 5, 1, 2, 3, 4 }
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // GFG : https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/

@@ -42,8 +42,8 @@ int main(){
     return 0;
 }
 
-// USECASE : Bubble sort is a simple sorting algorithm used to rearrange a set of elements in ascending or descending order. It's useful for smaller sets of elements but is inefficient for larger sets.
-// TIME COMPLEXITY : O(N^2)
-// SPACE COMPLEXITY : O(1)
+// When use : Bubble sort is a simple sorting algorithm used to rearrange a set of elements in ascending or descending order. It's useful for smaller sets of elements but is inefficient for larger sets.
+// Time Complexity : O(N^2)
+// Space Complexity : O(1)
 
 // GFG : https://practice.geeksforgeeks.org/problems/bubble-sort/1

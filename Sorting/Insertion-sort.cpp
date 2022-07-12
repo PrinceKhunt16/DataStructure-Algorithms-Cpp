@@ -46,8 +46,8 @@ int main(){
     return 0;
 }
 
-// USECASE : Insertion sort has a fast best-case running time and is a good sorting algorithm to use if the input list is already mostly sorted. For larger or more unordered lists, an algorithm with a faster worst and average-case running time, such as mergesort, would be a better choice.
-// TIME COMPLEXITY : O(N^2)
-// SPACE COMPLEXITY : O(1)
+// When use : Insertion sort has a fast best-case running time and is a good sorting algorithm to use if the input list is already mostly sorted. For larger or more unordered lists, an algorithm with a faster worst and average-case running time, such as mergesort, would be a better choice.
+// Time Complexity : O(N^2)
+// Space Complexity : O(1)
 
 // GFG : https://practice.geeksforgeeks.org/problems/insertion-sort/1#

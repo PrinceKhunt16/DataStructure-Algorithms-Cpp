@@ -46,10 +46,10 @@ int main()
     return 0;
 }
 
-// INPUT  : nums1({1, 2, 3, 0, 0, 0}) nums2({2, 5, 6})
-// OUTPUT : 1 2 2 3 5 6
+// Input  : nums1({1, 2, 3, 0, 0, 0}) nums2({2, 5, 6})
+// Output : 1 2 2 3 5 6
 
-// TIME COMPLEXITY : O(M + N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(M + N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://leetcode.com/problems/merge-sorted-array/

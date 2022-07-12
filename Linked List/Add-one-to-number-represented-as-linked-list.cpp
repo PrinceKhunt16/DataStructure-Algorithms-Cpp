@@ -81,10 +81,10 @@ int main() {
     return 0;
 }
 
-// INPUT  : 856
-// OUTPUT : 857
+// Input  : 856
+// Output : 857
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1

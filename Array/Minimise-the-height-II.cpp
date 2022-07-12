@@ -46,10 +46,10 @@ int main()
     return 0;
 }
 
-// INPUT  : K = 3, N = 5 Arr[] = {3, 9, 12, 16, 20}
-// OUTPUT : 11
+// Input  : K = 3, N = 5 Arr[] = {3, 9, 12, 16, 20}
+// Output : 11
 
-// TIME COMPLEXITY : O(N*logN)
-// SPACE COMPLEXITY : O(N)
+// Time Complexity : O(N*logN)
+// Space Complexity : O(N)
 
 // GFG : https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1

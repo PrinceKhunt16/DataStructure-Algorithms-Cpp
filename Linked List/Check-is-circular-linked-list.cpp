@@ -43,10 +43,10 @@ int main() {
     return 0;
 }
 
-// INPUT  : arr[] = 10, 20, 30, 40, 50 ( 50->10 )
-// OUTPUT : arr[] = 1
+// Input  : arr[] = 10, 20, 30, 40, 50 ( 50->10 )
+// Output : arr[] = 1
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // GFG : https://practice.geeksforgeeks.org/problems/circular-linked-list/1

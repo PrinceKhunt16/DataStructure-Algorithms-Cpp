@@ -87,10 +87,10 @@ int main(void){
 	return 0;
 }
 
-// INPUT  : 64957 + 30
-// OUTPUT : 76030
+// Input  : 64957 + 30
+// Output : 76030
 
-// TIME COMPLEXITY : O(M + N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(M + N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://leetcode.com/problems/add-two-numbers/submissions/

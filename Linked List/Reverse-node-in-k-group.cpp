@@ -76,10 +76,10 @@ int main(){
     return 0;
 }
 
-// INPUT  : arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 } k = 3
-// OUTPUT : arr[] = { 3, 2, 1, 6, 5, 4, 9, 8, 7, 10, 11 }
+// Input  : arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 } k = 3
+// Output : arr[] = { 3, 2, 1, 6, 5, 4, 9, 8, 7, 10, 11 }
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://leetcode.com/problems/reverse-nodes-in-k-group/

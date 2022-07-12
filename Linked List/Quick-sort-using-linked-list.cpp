@@ -100,10 +100,10 @@ int main(){
 }
 
 
-// INPUT  : arr[] = { 70, 99, 4, 88, 71, 8, 12, 70, 27 }
-// OUTPUT : arr[] = { 4, 8, 12, 27, 70, 70, 71, 88, 99 }
+// Input  : arr[] = { 70, 99, 4, 88, 71, 8, 12, 70, 27 }
+// Output : arr[] = { 4, 8, 12, 27, 70, 70, 71, 88, 99 }
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1#

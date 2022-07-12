@@ -33,7 +33,7 @@ public:
             arr[i] = result[i];
         }
 
-        // Print output.
+        // Print Output.
         for (int i = 0; i < n; i++)
         {
             cout << arr[i] << " " ;
@@ -51,10 +51,10 @@ int main() {
     return 0;
 }
 
-// INPUT  : arr[] = {-5, 7, -3, -4, 9, 10, -1, 11}
-// OUTPUT : arr[] = {7  9  10  11  -5  -3  -4  -1}
+// Input  : arr[] = {-5, 7, -3, -4, 9, 10, -1, 11}
+// Output : arr[] = {7  9  10  11  -5  -3  -4  -1}
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(N)
+// Time Complexity : O(N)
+// Space Complexity : O(N)
 
 // GFG : https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1#

@@ -22,11 +22,11 @@ int main()
     }
 }
 
-// INPUT :  arr[] = {1, 2, 3, 4, 5} k = 2
-// OUTPUT : arr[] = {4, 5, 1, 2, 3}
+// Input :  arr[] = {1, 2, 3, 4, 5} k = 2
+// Output : arr[] = {4, 5, 1, 2, 3}
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // GFG : https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
 // LEETCODE : https://leetcode.com/problems/rotate-array/

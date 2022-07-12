@@ -32,14 +32,14 @@ int main()
 	return 0;
 }
 
-// INPUT  : arr[] = {1, 2, 3}
-// OUTPUT : arr[] = {3, 2, 1}
+// Input  : arr[] = {1, 2, 3}
+// Output : arr[] = {3, 2, 1}
 
-// INPUT :  arr[] = {4, 5, 1, 2}
-// OUTPUT : arr[] = {2, 1, 5, 4}
+// Input :  arr[] = {4, 5, 1, 2}
+// Output : arr[] = {2, 1, 5, 4}
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(N)
+// Time Complexity : O(N)
+// Space Complexity : O(N)
 
 // GFG : https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
 // LEETCODE : https://leetcode.com/problems/reverse-string/

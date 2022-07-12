@@ -98,7 +98,7 @@ int main()
     return 0;
 }
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://leetcode.com/problems/linked-list-cycle/

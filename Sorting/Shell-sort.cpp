@@ -26,8 +26,8 @@ int main(){
         cout << arr[i] << " ";
 }
 
-// USECASE : Shell sort is a highly efficient sorting algorithm and is based on insertion sort algorithm. This algorithm avoids large shifts as in case of insertion sort, if the smaller value is to the far right and has to be moved to the far left.
-// TIME COMPLEXITY : O(N log(n))
-// SPACE COMPLEXITY : O(1)
+// When use : Shell sort is a highly efficient sorting algorithm and is based on insertion sort algorithm. This algorithm avoids large shifts as in case of insertion sort, if the smaller value is to the far right and has to be moved to the far left.
+// Time Complexity : O(N log(n))
+// Space Complexity : O(1)
 
 // GFG : https://www.geeksforgeeks.org/shellsort/

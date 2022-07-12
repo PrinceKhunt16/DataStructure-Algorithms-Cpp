@@ -59,10 +59,10 @@ int main(){
     return 0;
 }
 
-// INPUT  : arr[] = { 1, 2, 3, 4, 5, 6, 7, 8 }
-// OUTPUT : arr[] = { 8, 7, 6, 5, 4, 3, 2, 1 }
+// Input  : arr[] = { 1, 2, 3, 4, 5, 6, 7, 8 }
+// Output : arr[] = { 8, 7, 6, 5, 4, 3, 2, 1 }
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://leetcode.com/problems/reverse-linked-list/

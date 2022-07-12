@@ -70,10 +70,10 @@ int main(){
     return 0;
 }
 
-// INPUT  : arr[] = { 7, 4, 2, 5, 8, 3, 7, 4, 6, 3, 1, 3 }
-// OUTPUT : arr[] = { 3, 1, 6, 4, 7, 8, 5, 2 }
+// Input  : arr[] = { 7, 4, 2, 5, 8, 3, 7, 4, 6, 3, 1, 3 }
+// Output : arr[] = { 3, 1, 6, 4, 7, 8, 5, 2 }
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(N)
+// Time Complexity : O(N)
+// Space Complexity : O(N)
 
 // GFG : https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1

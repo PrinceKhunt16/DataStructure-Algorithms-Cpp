@@ -43,10 +43,10 @@ int main()
     return 0;
 }
 
-// INPUT  : intervals{{1, 3}, {2, 6}, {8, 10}, {15, 18}}
-// OUTPUT : {{1,6},{8,10},{15,18}}
+// Input  : intervals{{1, 3}, {2, 6}, {8, 10}, {15, 18}}
+// Output : {{1,6},{8,10},{15,18}}
 
-// TIME COMPLEXITY : O(N*logN)
-// SPACE COMPLEXITY : O(N)
+// Time Complexity : O(N*logN)
+// Space Complexity : O(N)
 
 // LEETCODE : https://leetcode.com/problems/maximum-subarray/

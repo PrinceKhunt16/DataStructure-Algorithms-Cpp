@@ -65,8 +65,8 @@ int main(){
     return 0;
 }
 
-// USECASE : This sorting algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from the unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array, the subarray which is already sorted and remaining subarray which is unsorted.
-// TIME COMPLEXITY : O(N^2)
-// SPACE COMPLEXITY : O(1)
+// When use : This sorting algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from the unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array, the subarray which is already sorted and remaining subarray which is unsorted.
+// Time Complexity : O(N^2)
+// Space Complexity : O(1)
 
 // GFG : https://practice.geeksforgeeks.org/problems/selection-sort/1#

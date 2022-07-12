@@ -29,7 +29,8 @@ int main(){
     return 0;
 }
 
-// TIME COMPLEXITY : O(n2)
-// SPACE COMPLEXITY : O(1)
+// When use : This sorting algorithm is best suited for situations where memory write or swap operations are costly.
+// Time Complexity : O(n2)
+// Space Complexity : O(1)
 
 // GFG : https://www.geeksforgeeks.org/cycle-sort/

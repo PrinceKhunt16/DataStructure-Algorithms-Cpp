@@ -60,12 +60,12 @@ int main()
     return 0;
 }
 
-// INPUT  : vector<int> arr1({1, 2, 3, 4, 5});
+// Input  : vector<int> arr1({1, 2, 3, 4, 5});
 //          vector<int> arr2({2, 3, 5, 6});
 
-// OUTPUT : vector<int> result = ({2, 3, 5});
+// Output : vector<int> result = ({2, 3, 5});
 
-// TIME COMPLEXITY : O(N*logN)
-// SPACE COMPLEXITY : O(N)
+// Time Complexity : O(N*logN)
+// Space Complexity : O(N)
 
 // LEETCODE : https://leetcode.com/problems/intersection-of-two-arrays/

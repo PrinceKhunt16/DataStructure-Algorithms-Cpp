@@ -35,10 +35,10 @@ int main()
     return 0;
 }
 
-// INPUT  : arr[] = {2, 3, 1, 1, 4}
-// OUTPUT : 2
+// Input  : arr[] = {2, 3, 1, 1, 4}
+// Output : 2
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://leetcode.com/problems/jump-game-ii/

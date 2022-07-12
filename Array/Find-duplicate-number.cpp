@@ -27,10 +27,10 @@ int main(){
     return 0;
 }
 
-// INPUT  : arr[] = {3, 1, 3, 4, 2}
-// OUTPUT : 3
+// Input  : arr[] = {3, 1, 3, 4, 2}
+// Output : 3
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://leetcode.com/problems/find-the-duplicate-number/

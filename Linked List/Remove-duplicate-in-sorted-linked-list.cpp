@@ -53,10 +53,10 @@ int main(){
     return 0;
 }
 
-// INPUT  : arr[] = { 1, 2, 3, 3, 3, 4, 4, 5, 6, 7, 7, 8 }
-// OUTPUT : arr[] = { 1, 2, 3, 4, 5, 6, 7, 8 }
+// Input  : arr[] = { 1, 2, 3, 3, 3, 4, 4, 5, 6, 7, 7, 8 }
+// Output : arr[] = { 1, 2, 3, 4, 5, 6, 7, 8 }
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(N)
+// Time Complexity : O(N)
+// Space Complexity : O(N)
 
 // LEETCODE : https://leetcode.com/problems/remove-duplicates-from-sorted-list/

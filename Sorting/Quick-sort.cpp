@@ -60,8 +60,8 @@ int main() {
     return 0;
 }
 
-// USECASE : Quicksort is the fastest algorithm so it is widely used as a better way of searching. It is used everywhere where a stable sort is not needed. Quicksort is a cache-friendly algorithm as it has a good locality of reference when used for arrays.
-// TIME COMPLEXITY : O(N log(n))
-// SPACE COMPLEXITY : O(1)
+// When use : Quicksort is the fastest algorithm so it is widely used as a better way of searching. It is used everywhere where a stable sort is not needed. Quicksort is a cache-friendly algorithm as it has a good locality of reference when used for arrays.
+// Time Complexity : O(N log(n))
+// Space Complexity : O(1)
 
 // GFG : https://practice.geeksforgeeks.org/problems/quick-sort/1

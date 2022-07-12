@@ -30,10 +30,10 @@ int main()
     cout << answer;
 }
 
-// INPUT :  arr[] = {-2, 1, -3, 4, -1, 2, 1, -5, 4} 
-// OUTPUT : 6
+// Input :  arr[] = {-2, 1, -3, 4, -1, 2, 1, -5, 4} 
+// Output : 6
 
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(1)
+// Time Complexity : O(N)
+// Space Complexity : O(1)
 
 // LEETCODE : https://leetcode.com/problems/maximummum-subarray/
