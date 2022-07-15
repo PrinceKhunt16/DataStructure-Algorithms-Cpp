@@ -31,7 +31,6 @@ bool findList(Node* first, Node* second){
             else {
                 break;
             }
-
         }
 
         if(ptr1 == NULL){
@@ -39,7 +38,6 @@ bool findList(Node* first, Node* second){
         }
 
         ptr1 = first;
-
         second = second -> next;
     }   
 
@@ -74,7 +72,7 @@ int main(){
 // Input  : arr = { 1, 2, 3, 4 }, arr2 = { 1, 2, 1, 2, 3, 4 }
 // Output : 1
 
-// Time Complexity : O(m  *n)
+// Time Complexity : O(m * n)
 // Space Complexity : O(1)
 
 // GFG : https://www.geeksforgeeks.org/sublist-search-search-a-linked-list-in-another-list/
