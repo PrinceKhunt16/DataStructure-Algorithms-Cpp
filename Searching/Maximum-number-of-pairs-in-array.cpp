@@ -29,10 +29,10 @@ int main(){
     return 0;
 }
 
-// Input  : nums = {2, 1, 1, 3, 2, 3, 3};
-// Output : { 3, 1 }
+// Input  : nums = {2, 1, 1, 3, 2, 3, 3}
+// Output : {3, 1}
 
 // Time Complexity : O(n)
 // Space Complexity : O(n)
 
-// GFG : https://leetcode.com/contest/weekly-contest-302/problems/maximum-number-of-pairs-in-array/
+// LEETCODE : https://leetcode.com/contest/weekly-contest-302/problems/maximum-number-of-pairs-in-array/
