@@ -18,7 +18,6 @@ class Solution{
                 newArr[k] = arr[ptr1];
                 k++, ptr1++;
             }  
-
         }
        
         while(ptr1 <= mid){
